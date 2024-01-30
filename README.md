@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Este repositório contém um projeto de website que é uma cópia simplificada do site oficial do jogo Grand Theft Auto V (GTA V). Desenvolvido por [Nome do Desenvolvedor], este projeto visa reproduzir visualmente a aparência e a estrutura do site do GTA V.
+Este repositório contém um projeto de website que é uma cópia simplificada do site oficial do jogo Grand Theft Auto V (GTA V). Desenvolvido por pLogicador, este projeto visa reproduzir visualmente a aparência e a estrutura do site do GTA V.
 
 ## Características Principais
 
@@ -14,7 +14,7 @@ Este repositório contém um projeto de website que é uma cópia simplificada d
 
 ## Como Visualizar
 
-Para visualizar o projeto, basta acessar o seguinte link: [GTA V Clone](https://seu-link-aqui.com).
+Para visualizar o projeto, basta acessar o seguinte link: [GTA V Clone](https://plogicador.github.io/rockstar-website/).
 
 ## Como Contribuir
 
